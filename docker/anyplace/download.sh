@@ -2,8 +2,8 @@
 ##################################################
 # Downloads compiled anyplace from github releases
 ##################################################
-VERSION=$1
-GITHUB_REPO=https://github.com/dmsl/anyplace
+VERSION=v4.1-dev
+GITHUB_REPO=https://github.com/tonydev-ops/anyplace
 GITHUB_RELEASES=$GITHUB_REPO/releases/download
 URL=$GITHUB_RELEASES/$VERSION/anyplace-server-$VERSION.zip
 
