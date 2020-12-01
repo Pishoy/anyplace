@@ -1,6 +1,6 @@
 # more details 
 1. change the ip address of server as https://github.com/tonydev-ops/anyplace/blob/develop/clients/android/Anyplace/res/values/strings.xml#L42
-2. install andriod studo 
+2. install andriod studio 
 3. import project [click here](androidstudio_welcome.png)
 4. wait till project download the needed packages if not working sync the files as below 
 5. to sync files do [this](sync.png) 
