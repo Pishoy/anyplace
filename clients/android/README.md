@@ -1,6 +1,7 @@
 # more details 
 1. create signingConfigs to be used to build app as [here](key1.png) --> next --> create new --> [image](key2.png) --> denug
-2. make sure that the mentioned path D:/XP_Documents/University of Cyprus/9 Term/Play Store/Files/ucy.keystore  to be yours path 
+2. make sure that the mentioned path D:/XP_Documents/University of Cyprus/9 Term/Play Store/Files/ucy.keystore  to be yours path, should be same values as \
+https://github.com/tonydev-ops/anyplace/blob/develop/clients/android/Anyplace/build.gradle#L30 
 3. change the ip address of server as https://github.com/tonydev-ops/anyplace/blob/develop/clients/android/Anyplace/res/values/strings.xml#L42
 4. install andriod studo 
 5. import project [click here](androidstudio_welcome.png)
