@@ -1,5 +1,4 @@
 # more details 
-<<<<<<< HEAD
 1. create signingConfigs to be used to build app as [here](key1.png) --> next --> create new --> [image](key2.png) --> denug
 2. make sure that the mentioned path D:/XP_Documents/University of Cyprus/9 Term/Play Store/Files/ucy.keystore  to be yours path 
 3. change the ip address of server as https://github.com/tonydev-ops/anyplace/blob/develop/clients/android/Anyplace/res/values/strings.xml#L42
@@ -7,13 +6,7 @@
 5. import project [click here](androidstudio_welcome.png)
 6. wait till project download the needed packages if not working sync the files as below 
 7. to sync files do [this](sync.png) 
-=======
-1. change the ip address of server as https://github.com/tonydev-ops/anyplace/blob/develop/clients/android/Anyplace/res/values/strings.xml#L42
-2. install andriod studio 
-3. import project [click here](androidstudio_welcome.png)
-4. wait till project download the needed packages if not working sync the files as below 
-5. to sync files do [this](sync.png) 
->>>>>>> 756b8699b3fc60f3cae11f46c0d1b0c6f687e27e
+
 
 # Android v2.6
 The Source code for the Anyplace Android Logger and Navigator (WiFi/IMU/IP Localization). Current Leader: Timotheos Constambeys. 
