@@ -3,7 +3,7 @@
 2. install andriod studo 
 3. import project [click here](androidstudio_welcome.png)
 4. wait till project download the needed packages if not working sync the files as below 
-5. to sync files do [this](sync.jpg) 
+5. to sync files do [this](sync.png) 
 
 # Android v2.6
 The Source code for the Anyplace Android Logger and Navigator (WiFi/IMU/IP Localization). Current Leader: Timotheos Constambeys. 
